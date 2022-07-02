@@ -1,5 +1,5 @@
 {
-  "name": "shopbook",
+  "name": "shopbook-online",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -51,6 +51,9 @@
       "json",
       "node"
     ]
+  },
+  "lint-staged": {
+    "**/*": "prettier --write --ignore-unknown"
   }
 
 }
