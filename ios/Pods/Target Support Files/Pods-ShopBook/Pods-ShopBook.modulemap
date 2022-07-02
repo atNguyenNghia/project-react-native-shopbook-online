@@ -1,0 +1,6 @@
+module Pods_ShopBook {
+  umbrella header "Pods-ShopBook-umbrella.h"
+
+  export *
+  module * { export * }
+}

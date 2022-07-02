@@ -1,0 +1,6 @@
+module Pods_ShopBook_ShopBookTests {
+  umbrella header "Pods-ShopBook-ShopBookTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
